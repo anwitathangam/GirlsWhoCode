@@ -6,3 +6,5 @@ do different things.
 Girls Who Code Logo: 
 
 ![alt text](http://codeghs.com/img/girlswhocode.jpeg "Logo Title Text 1")
+
+THis is where my new/amazing/awesome/terrific/fantastic/magnificent/stunning/wonderful/impressive website.
